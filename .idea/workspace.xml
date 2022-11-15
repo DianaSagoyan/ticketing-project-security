@@ -5,19 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cd6267e-04be-4434-876b-9bed79cffe7e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/config/AuthSuccessHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/config/AuthSuccessHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/config/AuthSuccessHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/config/SecurityConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/service/impl/ProjectServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/service/impl/ProjectServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/service/impl/TaskServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/service/impl/TaskServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/fragments/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cydeo/config/AuthSuccessHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cydeo/config/AuthSuccessHandler.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/cydeo/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cydeo/config/SecurityConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/cydeo/service/impl/ProjectServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cydeo/service/impl/ProjectServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/cydeo/service/impl/TaskServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cydeo/service/impl/TaskServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/cydeo/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cydeo/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/fragments/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/fragments/header.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668449449097</updated>
       <workItem from="1668449450599" duration="8411000" />
-      <workItem from="1668462941060" duration="17109000" />
+      <workItem from="1668462941060" duration="18102000" />
     </task>
     <task id="LOCAL-00001" summary="Practicing security">
       <created>1668461689069</created>
@@ -114,15 +111,22 @@
       <option name="project" value="LOCAL" />
       <updated>1668468395359</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Practicing security">
+      <created>1668543996032</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668543996032</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Practicing security" />
     <MESSAGE value="Connected to db" />
-    <option name="LAST_COMMIT_MESSAGE" value="Connected to db" />
+    <MESSAGE value="Practicing security" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practicing security" />
   </component>
 </project>

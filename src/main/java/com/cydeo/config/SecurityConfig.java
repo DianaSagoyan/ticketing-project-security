@@ -17,7 +17,8 @@ public class SecurityConfig {
         this.securityService = securityService;
         this.authSuccessHandler = authSuccessHandler;
     }
-//    @Bean
+
+    //    @Bean
 //    public UserDetailsService userDetailsService(PasswordEncoder encoder){
 //
 //        List<UserDetails> userList = new ArrayList<>();
@@ -58,19 +59,21 @@ public class SecurityConfig {
 //                .httpBasic()
                 .formLogin()
                 .loginPage("/login")
-//                .defaultSuccessUrl("/welcome")
+//                    .defaultSuccessUrl("/welcome")
                 .successHandler(authSuccessHandler)
                 .failureUrl("/login?error=true")
                 .permitAll()
-                .and().logout()
+                .and()
+                .logout()
                 .logoutRequestMatcher(new AntPathRequestMatcher("/logout"))
                 .logoutSuccessUrl("/login")
-                .and().rememberMe()
+                .and()
+                .rememberMe()
                 .tokenValiditySeconds(120)
                 .key("cydeo")
-                .userDetailsService(securityService) // to remember who entered
-                .and().build();
+                .userDetailsService(securityService)
+                .and()
+                .build();
     }
-
 
 }
