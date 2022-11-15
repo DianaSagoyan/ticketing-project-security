@@ -5,16 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cd6267e-04be-4434-876b-9bed79cffe7e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/entity/BaseEntityListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/config/AuthSuccessHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/config/AuthSuccessHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/config/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/service/impl/ProjectServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/service/impl/ProjectServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/service/impl/TaskServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/service/impl/TaskServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/cydeo/config/AuthSuccessHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cydeo/config/AuthSuccessHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/cydeo/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cydeo/config/SecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/cydeo/service/impl/ProjectServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cydeo/service/impl/ProjectServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/cydeo/service/impl/TaskServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cydeo/service/impl/TaskServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/entity/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/entity/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/entity/common/UserPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/entity/common/UserPrincipal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/fragments/left-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/left-sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cydeo/entity/BaseEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cydeo/entity/BaseEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cydeo/entity/common/UserPrincipal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cydeo/entity/common/UserPrincipal.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/cydeo/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cydeo/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/fragments/left-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/fragments/left-sidebar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668449449097</updated>
       <workItem from="1668449450599" duration="8411000" />
-      <workItem from="1668462941060" duration="18102000" />
+      <workItem from="1668462941060" duration="21607000" />
     </task>
     <task id="LOCAL-00001" summary="Practicing security">
       <created>1668461689069</created>
@@ -118,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668543996032</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Practicing security">
+      <created>1668545090998</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668545090998</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
